@@ -27,7 +27,15 @@
 .App-link {
   color: #61dafb;
 }
-
+#viz {
+  width: 900px;
+  height: 700px;
+  border: 1px solid lightgray;
+  font: 22pt arial;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
